@@ -1,4 +1,3 @@
-### Hi there 👋
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=tahamukhtar20)]()
 <!--
 **tahamukhtar20/tahamukhtar20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
